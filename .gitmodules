@@ -1,0 +1,6 @@
+[submodule "demo-backend"]
+	path = demo-backend
+	url = https://github.com/MazArslan/demo-backend.git
+[submodule "demo-web"]
+	path = demo-web
+	url = https://github.com/MazArslan/demo-web.git
